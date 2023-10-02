@@ -1,1 +1,1 @@
-This is a neural network that takes input numbers and the output that those inputs should give and will adjust its weights until those inputs give those outputs.
+This is a neural network that is meant to output numbers when given input numbers. Through forward propagation and back propagation the neural network trains it's weights until it eventually gets very close to the desired outputs.
